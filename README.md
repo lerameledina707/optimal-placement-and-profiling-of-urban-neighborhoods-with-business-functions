@@ -8,7 +8,7 @@
 
 
 ## Схема метода
-![image](https://github.com/user-attachments/assets/90b575fb-d248-484d-8441-312aa29062eb)
+![image]()
 
 
 
