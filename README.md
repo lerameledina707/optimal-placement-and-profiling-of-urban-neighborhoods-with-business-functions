@@ -15,7 +15,7 @@
 examples/data - итоговые данные полученые в результате применения метода на территорию города Санкт-Петербург
 
 ## Визуализация исходных данных
-![image]([https://github.com/lerameledina707/optimal-placement-and-profiling-of-urban-neighborhoods-with-business-functions/blob/main/images/method_ch.jpg?raw=true](https://github.com/lerameledina707/optimal-placement-and-profiling-of-urban-neighborhoods-with-business-functions/blob/main/images/example_1.jpg?raw=true))
+![image](https://github.com/lerameledina707/optimal-placement-and-profiling-of-urban-neighborhoods-with-business-functions/blob/main/images/example_1.jpg?raw=true)
 Исходные кварталы Санкт-Петербурга с 6.0 ≤ ИДАТ < 7.9 с центроидами и фактическими зонами влияния
 
 ## Контакты
