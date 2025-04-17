@@ -20,5 +20,10 @@ examples/data - итоговые данные полученые в резуль
 ![image](https://github.com/lerameledina707/optimal-placement-and-profiling-of-urban-neighborhoods-with-business-functions/blob/main/images/example_1.jpg?raw=true)
 Исходные кварталы Санкт-Петербурга с 6.0 ≤ ИДАТ < 7.9 с центроидами и фактическими зонами влияния
 
+## Оценки ИДАТ для города Санкт-Петербург
+![image](https://github.com/user-attachments/assets/371c1b5d-b4b2-4712-8305-66810aedf4bc)
+
+
+
 ## Контакты
 - [lera_meledina707](https://t.me/lera_meledina707) - Валерия Меледина
