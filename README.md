@@ -11,7 +11,7 @@
 
 
 ## Схема метода
-![image]([https://github.com/lerameledina707/optimal-placement-and-profiling-of-urban-neighborhoods-with-business-functions/blob/main/images/method_ch.jpg?raw=true](https://github.com/lerameledina707/optimal-placement-and-profiling-of-urban-neighborhoods-with-business-functions/blob/main/images/3.png?raw=true))
+![image](https://github.com/user-attachments/assets/39df9c59-c526-4e1e-b3cd-232bb2d42b60)
 
 ## Исходные данные
 examples/data - итоговые данные полученые в результате применения метода на территорию города Санкт-Петербург
