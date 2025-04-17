@@ -23,6 +23,10 @@ examples/data - итоговые данные полученые в резуль
 ## Оценки ИДАТ для города Санкт-Петербург
 ![image](https://github.com/user-attachments/assets/371c1b5d-b4b2-4712-8305-66810aedf4bc)
 
+## Демонстрация применения метода
+
+![image](https://github.com/user-attachments/assets/96c195e7-ef0c-44f6-abda-2f9adfbb8ca0)
+![image](https://github.com/user-attachments/assets/053185f8-6668-443f-85e5-a9535d24d7ea)
 
 
 ## Контакты
